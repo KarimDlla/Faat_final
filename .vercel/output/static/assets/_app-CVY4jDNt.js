@@ -1,0 +1,1 @@
+import{r as e}from"./useRouter-n-55C-Sd.js";import{i as t}from"./index-DUv9BKZH.js";var n=e();function r(){return(0,n.jsx)(t,{to:`/proposals`,replace:!0})}export{r as component};
